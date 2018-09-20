@@ -1,0 +1,6 @@
+c:\users\вадим\documents\visual studio 2015\Projects\calculate the sum of areas of the matrix\calculate the sum of areas of the matrix\bin\Debug\calculate the sum of areas of the matrix.exe.config
+c:\users\вадим\documents\visual studio 2015\Projects\calculate the sum of areas of the matrix\calculate the sum of areas of the matrix\bin\Debug\calculate the sum of areas of the matrix.exe
+c:\users\вадим\documents\visual studio 2015\Projects\calculate the sum of areas of the matrix\calculate the sum of areas of the matrix\bin\Debug\calculate the sum of areas of the matrix.pdb
+c:\users\вадим\documents\visual studio 2015\Projects\calculate the sum of areas of the matrix\calculate the sum of areas of the matrix\obj\Debug\calculate the sum of areas of the matrix.csprojResolveAssemblyReference.cache
+c:\users\вадим\documents\visual studio 2015\Projects\calculate the sum of areas of the matrix\calculate the sum of areas of the matrix\obj\Debug\calculate the sum of areas of the matrix.exe
+c:\users\вадим\documents\visual studio 2015\Projects\calculate the sum of areas of the matrix\calculate the sum of areas of the matrix\obj\Debug\calculate the sum of areas of the matrix.pdb
